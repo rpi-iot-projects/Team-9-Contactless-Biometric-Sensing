@@ -24,5 +24,25 @@ This project aims to develop a live-updating, contactless biometric sensor that 
 
 ## Usage
 
+### To run simulation:
+- Open MATLAB
+- Download and run either breathingrate_simulation.mlx or heartrate_simulation.mlx
+
+### To run on TinyRad:
+- Plug in the TinyRad device onto the computer
+- Download tinyrad.m
+- Run file on MATLAB
 
 ## Results and Demonstration
+
+### Breathing Rate FFT Simulation Results:
+<img src="https://github.com/user-attachments/assets/5de00183-884e-43ce-b194-958d91b22f84" alt="breathing rate is 11.7 bpm" style="width:50%; height:auto;">
+
+### Heart Rate FFT Simulation Results:
+<img src="https://github.com/user-attachments/assets/c4fd24f6-4f10-4228-a8d6-05dd72dc92a5" alt="heart rate is 58.6 bpm" style="width:50%; height:auto;">
+
+### TinyRad Results:
+<img src="https://github.com/user-attachments/assets/dd30e4f8-1a24-48a2-bdc9-a1460bd39c24" alt="breathing and heart rate pattern" style="width:50%; height:auto;">
+
+### Website Display:
+<img src="https://github.com/user-attachments/assets/a4709e4a-ef29-46ba-8364-ea60f012c8d3" alt="breathing and heart rate pattern" style="width:50%; height:auto;">
